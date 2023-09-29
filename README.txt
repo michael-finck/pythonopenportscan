@@ -11,7 +11,7 @@ It checks specified ports on a target host to determine if they are open or clos
 
 3. Open the script and modify the target host and ports to scan as needed:
    ```python
-   target_host = "example.com"  # Replace with the target host (IP or domain)
+   target_host = "www.myexample.com"  # Replace with the target host (IP or domain)
    ports_to_scan = [22, 80, 443, 8080]  # Ports to scan
 
 Run the script:
